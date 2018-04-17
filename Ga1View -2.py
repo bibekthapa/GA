@@ -215,9 +215,3 @@ print (stop - start)
     
 
 
-''' 
-Ref: https://stackoverflow.com/questions/17985216/draw-circle-in-tkinter-python?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
-Ref: https://www.youtube.com/watch?v=M3KTWnTrU_c
-Ref: https://github.com/CodingTrain/Rainbow-Topics/issues/146
-http://tributary.io/inlet/4101682/
-'''
